@@ -13,6 +13,14 @@
                                         <key>url</key>
                                         <string>http://121.42.160.125/service/update/web/ELearningClient.ipa</string>
                                 </dict>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>display-image</string>
+                                        <key>needs-shine</key>
+                                        <true/>
+                                        <key>url</key>
+                                        <string>http://121.42.160.125/service/update/web/ELearningClient.png</string>
+                                 </dict>
                         </array>
                         <key>metadata</key>
                         <dict>
@@ -22,6 +30,8 @@
                                 <string>1.0.0</string>
                                 <key>kind</key>
                                 <string>software</string>
+                                <key>subtitle</key>
+                                <string>需求侧指导中心</string>
                                 <key>title</key>
                                 <string>DSM培训</string>
                         </dict>
