@@ -19,7 +19,7 @@
                                         <key>needs-shine</key>
                                         <true/>
                                         <key>url</key>
-                                        <string>http://mp.dsmtraining.cn/resource/update/web/ELearningClient.png</string>
+                                        <string>https://raw.githubusercontent.com/AromaSunbeam/ELearningClient/master/ELearningClient.png</string>
                                  </dict>
                         </array>
                         <key>metadata</key>
